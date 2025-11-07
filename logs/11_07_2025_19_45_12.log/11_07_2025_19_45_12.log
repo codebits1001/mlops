@@ -1,0 +1,26 @@
+[2025-11-07 19:45:13,007] 33 root - INFO - DataIngestion Process Initiated:
+[2025-11-07 19:45:13,117] 36 root - INFO - Dataset succesfully read, entering the next process
+[2025-11-07 19:45:13,408] 40 root - INFO - Initializing the train_test_split
+[2025-11-07 19:45:13,713] 45 root - INFO - Sucessfully splited and save in respective directores: Ingestion of the Data is completed
+[2025-11-07 19:45:13,820] 59 root - INFO - process and save function called: (NYC_Air file, line: 59)
+[2025-11-07 19:45:13,820] 20 root - INFO - Initiating the feature engineering:
+[2025-11-07 19:45:13,843] 27 root - INFO - last review columns done:
+[2025-11-07 19:45:13,849] 37 root - INFO - frequency target encoding done for the neighbourhood.
+[2025-11-07 19:45:13,853] 44 root - INFO - Log transformation for price and minimum_nights.
+[2025-11-07 19:45:13,853] 48 root - INFO - All the columns nan values are filled. 
+ All the original columns are dropped, which are transformed or engineered.
+[2025-11-07 19:45:13,853] 20 root - INFO - Initiating the feature engineering:
+[2025-11-07 19:45:13,863] 27 root - INFO - last review columns done:
+[2025-11-07 19:45:13,865] 37 root - INFO - frequency target encoding done for the neighbourhood.
+[2025-11-07 19:45:13,867] 44 root - INFO - Log transformation for price and minimum_nights.
+[2025-11-07 19:45:13,867] 48 root - INFO - All the columns nan values are filled. 
+ All the original columns are dropped, which are transformed or engineered.
+[2025-11-07 19:45:13,867] 69 root - INFO - Saving the engineered data frame(test and train)
+[2025-11-07 19:45:14,204] 74 root - INFO - Returning the file path.
+[2025-11-07 19:45:14,204] 82 root - INFO - Started data transformation
+[2025-11-07 19:45:14,264] 86 root - INFO - Completed reading the test and train data
+[2025-11-07 19:45:14,264] 87 root - INFO - Obtaining the preprocesor object.
+[2025-11-07 19:45:14,264] 37 root - INFO - Started get_data_transformer_object
+[2025-11-07 19:45:14,265] 72 root - INFO - Preprocessor object returned:
+[2025-11-07 19:45:14,267] 101 root - INFO - Applying the preprocesing object on training dataframe and testing dataframe.
+[2025-11-07 19:45:14,338] 128 root - INFO - Saved preprocessing object.
