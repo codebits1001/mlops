@@ -1,5 +1,0 @@
-setup.py
-mlops_project_pipeline.egg-info/PKG-INFO
-mlops_project_pipeline.egg-info/SOURCES.txt
-mlops_project_pipeline.egg-info/dependency_links.txt
-mlops_project_pipeline.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-
-[2025-11-07 19:17:28,323] 86 root - INFO - Completed reading the test and train data
-[2025-11-07 19:17:28,323] 87 root - INFO - Obtaining the preprocesor object.
-[2025-11-07 19:17:28,323] 37 root - INFO - Started get_data_transformer_object
-[2025-11-07 19:17:28,323] 72 root - INFO - Preprocessor object returned:
-[2025-11-07 19:17:28,325] 101 root - INFO - Applying the preprocesing object on training dataframe and testing dataframe.
-[2025-11-07 19:17:28,396] 128 root - INFO - Saved preprocessing object.
